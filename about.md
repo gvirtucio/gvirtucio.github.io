@@ -27,6 +27,8 @@ Sony Nex-6 and Sony A6000:
 
 - Sony E 16 - 50mm f3.5 - 5.6
 - Sony Vario-Tessar E 16-70mm f4 ZA
+- Sony E PZ 18 - 105mm F4 G
+- Sony Sonnar T* E 24mm F1.8 ZA
 - Sony E 18 - 55mm f3.5 - 5.6
 - Sony E 50mm f1.8
 - Sony E 55 - 210mm f4.5 - 6.3
