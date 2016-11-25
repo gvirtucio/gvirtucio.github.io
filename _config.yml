@@ -1,7 +1,7 @@
 # Site settings
 title: Greg Virtucio
 description: >
-  I am GV and this is my personal homepage.
+  I am Greg Virtucio and this is my personal homepage. Some people know me as GV, and gvirtucio is my social handle.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gvirtuc.io" # the base hostname & protocol for your site
