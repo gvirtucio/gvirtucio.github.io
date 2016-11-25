@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I am Greg Virtucio.
+title: Hi! I'm Greg Virtucio.
 subtitle: Also known as GV or gvirtucio.
 ---
 
