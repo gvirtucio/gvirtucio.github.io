@@ -7,7 +7,7 @@ permalink: /about/
 ![Greg Virtucio]({{ site.baseurl }}/assets/img/gv.jpg)
 Hi! I am Greg Virtucio. People call me GV. 
 
-I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst.
+I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
 
 I started with my photography hobby in 2012. I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
 
