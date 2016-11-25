@@ -5,7 +5,7 @@ subtitle: Who is Greg Virtucio?
 permalink: /about/
 ---
 ![Greg Virtucio]({{ site.baseurl }}/assets/img/gv.jpg)
-Hi! I am Greg Virtucio. People call me GV. 
+Hi! I am Greg Virtucio. Some people know me as GV. I use gvirtucio as my social handle. 
 
 I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
 
