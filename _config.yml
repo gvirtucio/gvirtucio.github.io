@@ -22,5 +22,4 @@ exclude: ["README.md", "README.html"]
 markdown: kramdown
 timezone: Asia/Manila
 
-gems:
-  - jekyll-redirect-from
+
