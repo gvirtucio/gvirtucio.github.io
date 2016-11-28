@@ -5,15 +5,17 @@ subtitle: Who is Greg Virtucio?
 permalink: /about/
 ---
 ![Greg Virtucio]({{ site.baseurl }}/assets/img/gv.jpg)
-Hi! I am Greg Virtucio. Some people know me as GV. I use gvirtucio as my social handle. 
+Hi! I am **Greg Virtucio**. Some people know me as **GV**. I use **gvirtucio** as my social handle. 
+
+##Photography##
 
 I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
 
-I started with my photography hobby in 2012. I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
+I started with my photography hobby in 2008, with the Sony Ericsson K800. I really loved that phone, and it had an awesome camera.
 
-My very first camera was the Sony Nex-5R with the 16-50mm kit lens. I then bought a Canon FD 50mm 1.4 SSC, and I simply fell in love with it. This started my craving for manual lenses. 
+My very first "real" camera was the *Sony Nex-5R* with the 16-50mm kit lens. I then bought a Canon FD 50mm 1.4 SSC, and I simply fell in love with it. This started my craving for manual lenses. 
 
-Manual lenses I had:
+Manual lenses I have:
 
 - Canon FD 50mm f1.4 SSC
 - Canon FD 85mm f1.2L
@@ -21,7 +23,7 @@ Manual lenses I had:
 - Canon FD 135mm f2.8
 - Minolta MD W.Rokkor-X 24mm f2.8
 
-Today, my everyday camera is the Sony A6000. Perfect size and weight for me. I have it with me almost everyday with my SEL 50mm f1.8. My cameras and lenses are:
+Today, my everyday camera is the *Sony A6000*. Perfect size and weight for me. I have it with me almost everyday with my SEL 50mm f1.8. My cameras and lenses are:
 
 Sony Nex-6 and Sony A6000:
 
@@ -40,6 +42,8 @@ Fujifilm X-T1:
 - Fujifilm XF 56mm f1.2 R
 
 Sony native lenses are what I use mostly nowadays, but I still use my manual ones whenever I feel like it.
+
+I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
 
 I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](http://gvpix.com). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with an Attribution-ShareAlike Creative Commons license.
 
