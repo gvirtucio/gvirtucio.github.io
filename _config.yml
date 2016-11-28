@@ -22,4 +22,6 @@ exclude: ["README.md", "README.html"]
 markdown: kramdown
 timezone: Asia/Manila
 
+permalink: /updates/:year/month/:day/:title/
+
 
