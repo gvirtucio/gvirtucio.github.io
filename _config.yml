@@ -23,5 +23,5 @@ markdown: kramdown
 timezone: Asia/Manila
 
 permalink: /updates/:year/month/:day/:title/
-permalink: /404.md
+
 
