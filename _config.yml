@@ -3,7 +3,7 @@ title: Greg Virtucio
 description: >
   I am Greg Virtucio and this is my personal homepage. Some people know me as GV, and gvirtucio is my social handle. I am an amateur photographer based in Antipolo, Philippines.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/updates" # the subpath of your site, e.g. /blog/
 url: "http://gvirtuc.io" # the base hostname & protocol for your site
 
 author:
