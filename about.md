@@ -7,7 +7,7 @@ permalink: /about/
 ![Greg Virtucio]({{ site.baseurl }}/assets/gvirtucio.jpg)
 Hi! I am **Greg Virtucio**. Some people know me as **GV**. I use **gvirtucio** as my social handle. 
 
-I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
+I am a [hobbyist / amateur photographer](https://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
 
 I started with my photography hobby in 2008, with the Sony Ericsson K800. I really loved that phone, and it had an awesome camera.
 
@@ -43,7 +43,7 @@ Sony native lenses are what I use mostly nowadays, but I still use my manual one
 
 I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
 
-I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](http://gvpix.com). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with an Attribution-ShareAlike Creative Commons license.
+I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](https://gvpix.com/blog). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with an Attribution-ShareAlike Creative Commons license.
 
 My social links:
 
