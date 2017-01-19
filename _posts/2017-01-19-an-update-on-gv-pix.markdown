@@ -2,7 +2,7 @@
 layout: post
 title:  "SmugMug"
 subtitle: "An Update on GV Pix"
-date:   2017-19-1 21:00:00
+date:   2017-1-19 21:00:00
 ---
 
 Did I say I was moving my photoblog to SmugMug?
