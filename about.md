@@ -5,9 +5,14 @@ subtitle: Who is Greg Virtucio?
 permalink: /about/
 ---
 ![Greg Virtucio]({{ site.baseurl }}/assets/gvirtucio.jpg)
+
+#Greg Virtucio
+
 Hi! I am **Greg Virtucio**. Some people know me as **GV**. I use **gvirtucio** as my social handle. 
 
 I am a [hobbyist / amateur photographer](https://gvpix.com), a web host and a systems analyst based in Antipolo, Philippines.
+
+##Photography
 
 I started with my photography hobby in 2008, with the Sony Ericsson K800. I really loved that phone, and it had an awesome camera.
 
