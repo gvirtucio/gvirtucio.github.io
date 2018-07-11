@@ -28,15 +28,24 @@ Manual lenses I have:
 
 Today, my everyday camera is the *Sony A6000*. Perfect size and weight for me. I have it with me almost everyday with my SEL 50mm f1.8. My cameras and lenses are:
 
-Sony Nex-6 and Sony A6000:
+Sony A6000 and A6500:
 
 - Sony E 16 - 50mm f3.5 - 5.6
 - Sony Vario-Tessar E 16-70mm f4 ZA
-- Sony E PZ 18 - 105mm F4 G
-- Sony Sonnar T* E 24mm F1.8 ZA
+- Sony E PZ 18 - 105mm f4 G
+- Sony Sonnar T* E 24mm f1.8 ZA
 - Sony E 18 - 55mm f3.5 - 5.6
 - Sony E 50mm f1.8
 - Sony E 55 - 210mm f4.5 - 6.3
+- Sigma 16mm 1.4 DC DN
+
+Sony A7rII:
+
+- Sony FE 16-35mm f2.8 GM
+- Sony Distagon T* FE 35mm f1.4 ZA 
+- Sony FE 24-70mm f2.8 GM
+- Sony Sonnar T* FE 55mm f1.8 ZA
+- Sony FE 85mm f1.4 GM
 
 Fujifilm X-T1:
 
