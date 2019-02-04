@@ -21,5 +21,3 @@ fields:
   label: date
   config:
     date_format: YYYY-MM-DD
-pages:
-- _posts/post.md
