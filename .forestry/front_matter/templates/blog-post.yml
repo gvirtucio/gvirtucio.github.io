@@ -24,3 +24,5 @@ fields:
   config:
     date_format: YYYY-MM-DD
     display_utc: true
+pages:
+- _posts/testing-2.md
