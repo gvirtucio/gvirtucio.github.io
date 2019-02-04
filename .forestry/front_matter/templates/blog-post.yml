@@ -7,17 +7,20 @@ fields:
   name: layout
   label: layout
   default: post
+  config:
+    required: true
 - type: text
   name: title
   label: title
   description: Title of post
-  default: "\""
+  default: ''
 - type: text
   name: subtitle
   label: subtitle
-  default: "\""
+  default: ''
 - type: datetime
   name: date
   label: date
   config:
     date_format: YYYY-MM-DD
+    display_utc: true
