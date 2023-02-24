@@ -61,6 +61,5 @@ I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/)
 
 My social links:
 
- - [Google Plus](https://plus.google.com/+GregVirtucio)
- - [Facebook](https://www.facebook.com/greg.virtucio)
+
  - [Twitter](https://twitter.com/gvirtucio)
